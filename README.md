@@ -7,8 +7,8 @@ Card values go in the order: 2, 3, 4, 5, 6, 7, 8, 9, 1, j, q, k, a. All letter l
 
 Examples of inputs:
 
-Ace of spades - as
-10 of diamonds - 1d
-2 of hearts - 2h
-jack of clubs - jc
-7 of spades - 7c
+Ace of Spades - as\
+10 of Diamonds - 1d\
+2 of Hearts - 2h\
+Jack of Clubs - jc\
+7 of Spades - 7c
